@@ -22,4 +22,4 @@ poetry run coverage report -m
 poetry run coverage html
 
 echo "${COLOR_GREEN}✅ All tests passed successfully!.${COLOR_NC}"
-echo "${COLOR_RED}❌ ERROR: Something went wrong.${COLOR_NC}"
+echo "${COLOR_RED}❌ ERROR: Something went wrong!${COLOR_NC}"
